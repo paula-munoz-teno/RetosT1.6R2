@@ -29,3 +29,5 @@ Al hacerlo, si refresco git hub se actualiza
 6. GIT STATUS
 
 Modificamos el fichero readme
+
+#Aplicación de git ignore 
